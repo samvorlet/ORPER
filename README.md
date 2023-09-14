@@ -2,12 +2,14 @@
 ORPER summer school 2023
 
 ------------------------------------------------------
--- Author/Date of creation:
+-- General information:
 ------------------------------------------------------
 
-	- Samuel Vorlet
+	- Author: Samuel Vorlet
 
-	- 14.09.2023
+	- Date of creation: 14.09.2023
+
+	- Python version: 3.10.4
 
 ------------------------------------------------------
 -- Description: 
