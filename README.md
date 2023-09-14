@@ -36,6 +36,9 @@ On the root:
 The file is a direct executable script. The user needs to open it and run it, and the script will perform basic statistical analysis of turbulent flow from a time-series.
 
 The code contains 3 parts:
+
 	- Data importation -> import the time-series
+
 	- Stationarity -> performing basic stationarity tests
+
 	- Probability Density Function -> calculate and plot the PDF of the data, check if it has a gaussian behavior
