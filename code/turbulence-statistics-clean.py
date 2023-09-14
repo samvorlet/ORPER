@@ -31,6 +31,7 @@ import statistics # version 3.4
 import numpy as np # version 1.0.1
 import matplotlib.pyplot as plt  # version 3.5.2
 import pandas as pd # version 1.4.2
+import scipy  # version 1.11.2
 from scipy import stats # version 1.11.2
 from scipy.stats import norm # version 1.11.2
 import mat73 # version 0.60
