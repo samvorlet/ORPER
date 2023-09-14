@@ -46,3 +46,5 @@ The code contains 3 parts:
 	- Stationarity -> performing basic stationarity tests
 
 	- Probability Density Function -> calculate and plot the PDF of the data, check if it has a gaussian behavior
+
+Depending on the computational power, the full script can take up to 90 seconds to compile and run fully.
